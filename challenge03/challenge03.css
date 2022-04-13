@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+.intro-content {
+  width: 50%;
+}
+
+.content {
+  background: #23424a;
+  color: white;
+}
+
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  padding: 1.25rem 1rem;
+  border-radius: 30px;
+  font-weight: bold;
+  background-color: #38CFD9;
+  color: black;
+}
+
+.btn-m {
+  margin-top: 1rem
+}
